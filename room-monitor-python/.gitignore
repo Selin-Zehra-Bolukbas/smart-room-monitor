@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+
+anahtar.json
+*service-account*.json
+*firebase-adminsdk*.json
+
+.env
+*.env
+
+.vscode/
+.idea/
